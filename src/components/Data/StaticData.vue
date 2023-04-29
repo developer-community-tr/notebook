@@ -17,6 +17,7 @@ export default {
         { id: 11, content: "chores", metaData: { level: "A2", origin: "danish" } },
         { id: 12, content: "leisurely", metaData: { level: "A2", origin: "french" } },
         { id: 13, content: "shrink", metaData: { level: "A2", origin: "french" } },
+        { id: 13, content: "sefer", metaData: { level: "A2", origin: "french" } },
         { id: 14, content: "hectic", metaData: { level: "C1", origin: "french" } }
     ],
     data() {
